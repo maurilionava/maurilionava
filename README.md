@@ -1,25 +1,53 @@
-# Maurilio Nava Junior
+## 🇧🇷 Versão em Português
 
-## About Me
+### Sobre mim
 
-I'm Maurilio Nava Junior, and I'm on a journey back into the tech world after a few years away. I spent 2.5 years as a developer working with technologies like ASP.NET, C#, and SQL Server before transitioning to a role as a firefighter. Now, I’m re-engaging with software development by studying modern tools and frameworks like React, Node.js, and Docker over the past few months.
+Sou Desenvolvedor de Software com foco em back-end, com experiência sólida em .NET, C# e APIs RESTful. Tenho formação em Análise e Desenvolvimento de Sistemas e busco constantemente aprimorar minhas habilidades técnicas e colaborar em projetos que promovam inovação e crescimento compartilhado.
 
-I'm in the final stages of completing my degree in Systems Analysis and Development at UNINTER. I’m eager to grow my skills, connect with others in the field, and find new challenges in the tech industry.
+Familiarizado com metodologias ágeis, Git, CI/CD e práticas modernas de desenvolvimento, sou movido por aprendizado contínuo e resolução de problemas. Tenho interesse especial por Engenharia de Software, Inteligência Artificial e Ciência de Dados.
 
-- **Currently studying**: React, Node.js, MongoDB, Docker, Git, JavaScript
-- **Experience with**: ASP.NET (C#), Hibernate, SQL Server
-- **Education**: Finalizing a degree in Systems Analysis and Development at UNINTER
-- **Interests**: Software Engineering, Artificial Intelligence, Data Science
+---
 
-## Technologies & Tools
+### 🛠️ Tecnologias e Ferramentas
 
-- **Frontend**: React, HTML5, CSS3, JavaScript, Bootstrap
-- **Backend**: Node.js, ASP.NET (C#)
-- **Databases**: SQL Server, MongoDB
-- **Tools**: Git, Docker, Postman, Visual Studio Code
+**Front-end**: HTML5, CSS3, JavaScript, Bootstrap  
+**Back-end**: ASP.NET (C#)  
+**Banco de Dados**: SQL Server, MongoDB  
+**Ferramentas**: Git, Docker, Postman, Visual Studio Code  
+**Metodologias**: Scrum, Kanban, CI/CD  
 
-## Get in Touch
+---
 
-- **Email**: [mnavajunior@gmail.com](mailto:mnavajunior@gmail.com)
-- **GitHub**: [maurilionava](https://github.com/maurilionava)
-- **LinkedIn**: [Maurilio Nava Junior](https://www.linkedin.com/in/maurilio-nava-junior)
+### 📢 Entre em contato
+
+- **Email**: mnavajunior@gmail.com  
+- **GitHub**: [maurilionava](https://github.com/maurilionava)  
+- **LinkedIn**: [Maurilio Nava Junior](https://www.linkedin.com/in/maurilionava/)
+
+---
+
+## 🇺🇸 English Version
+
+### About Me
+
+I’m a Back-End Software Developer with solid experience in .NET, C#, and RESTful APIs. I hold a degree in Systems Analysis and Development and am continuously improving my technical skills while contributing to projects that foster innovation and shared growth.
+
+Familiar with agile methodologies, Git, CI/CD, and modern development practices, I’m driven by continuous learning and problem-solving. I have a strong interest in Software Engineering, Artificial Intelligence, and Data Science.
+
+---
+
+### 🛠️ Technologies & Tools
+
+**Frontend**: HTML5, CSS3, JavaScript, Bootstrap  
+**Backend**: ASP.NET (C#)  
+**Databases**: SQL Server, MongoDB  
+**Tools**: Git, Docker, Postman, Visual Studio Code  
+**Methodologies**: Scrum, Kanban, CI/CD  
+
+---
+
+### 📢 Get in Touch
+
+- **Email**: mnavajunior@gmail.com  
+- **GitHub**: [maurilionava](https://github.com/maurilionava)  
+- **LinkedIn**: [Maurilio Nava Junior](https://www.linkedin.com/in/maurilionava/)
