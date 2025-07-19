@@ -2,9 +2,11 @@
 
 ### Sobre mim
 
-Sou Desenvolvedor de Software com foco em back-end, com experiência sólida em .NET, C# e APIs RESTful. Tenho formação em Análise e Desenvolvimento de Sistemas e busco constantemente aprimorar minhas habilidades técnicas e colaborar em projetos que promovam inovação e crescimento compartilhado.
+Sou Desenvolvedor de Software com foco em back-end, formado em Análise e Desenvolvimento de Sistemas e possuo sólida experiência em .NET, C# e APIs RESTful.
 
-Familiarizado com metodologias ágeis, Git, CI/CD e práticas modernas de desenvolvimento, sou movido por aprendizado contínuo e resolução de problemas. Tenho interesse especial por Engenharia de Software, Inteligência Artificial e Ciência de Dados.
+Tenho familiaridade com metodologias ágeis, Git, CI/CD e boas práticas de desenvolvimento, sempre buscando entregar soluções eficientes e escaláveis. Sou motivado pelo aprendizado contínuo e por ambientes colaborativos onde a tecnologia é usada para gerar impacto real.
+
+Tenho grande interesse por Engenharia de Software, Inteligência Artificial e Ciência de Dados — áreas que estudo ativamente para expandir minha atuação e agregar mais valor aos projetos em que participo.
 
 ---
 
