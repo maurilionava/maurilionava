@@ -32,9 +32,11 @@ Tenho grande interesse por Engenharia de Software, Inteligência Artificial e Ci
 
 ### About Me
 
-I’m a Back-End Software Developer with solid experience in .NET, C#, and RESTful APIs. I hold a degree in Systems Analysis and Development and am continuously improving my technical skills while contributing to projects that foster innovation and shared growth.
+I'm a Software Developer focused on back-end development, with a degree in Systems Analysis and Development and solid experience in .NET, C#, and RESTful APIs.
 
-Familiar with agile methodologies, Git, CI/CD, and modern development practices, I’m driven by continuous learning and problem-solving. I have a strong interest in Software Engineering, Artificial Intelligence, and Data Science.
+I’m familiar with agile methodologies, Git, CI/CD, and modern development best practices, always aiming to deliver efficient and scalable solutions. I'm driven by continuous learning and thrive in collaborative environments where technology is used to create real impact.
+
+I have a strong interest in Software Engineering, Artificial Intelligence, and Data Science — fields I actively study to expand my expertise and add greater value to the projects I contribute to.
 
 ---
 
